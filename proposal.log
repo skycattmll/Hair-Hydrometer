@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.8.4)  16 AUG 2019 22:25
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.8.4)  17 AUG 2019 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -84,24 +84,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
-
-
-Package natbib Warning: Citation `lee2016advances' on page 1 undefined on input line 32.
-
-[1
+ [1
 
 ]
-
-Package natbib Warning: Citation `Whipple_1921' on page 2 undefined on input line 36.
-
 
 LaTeX Warning: File `hair structure.jpg' not found on input line 39.
 
 File: hair structure.jpg Graphic file (type bmp)
 <hair structure.jpg>
-
-Package natbib Warning: Citation `yu2017structure' on page 2 undefined on input line 40.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -111,27 +101,25 @@ LaTeX Warning: File `protein structure.png' not found on input line 46.
 
 File: protein structure.png Graphic file (type bmp)
 <protein structure.png>
-
-Package natbib Warning: Citation `yu2017structure' on page 2 undefined on input line 47.
-
 [2]
-
-Package natbib Warning: Citation `bhushan2006afm' on page 3 undefined on input line 52.
-
 File: bhushan.png Graphic file (type bmp)
 <bhushan.png>
-[3] (./proposal.bbl)
+ [3]
+
+Package natbib Warning: Citation `lin1992purification' on page 4 undefined on input line 76.
+
+(./proposal.bbl [4])
 
 Package natbib Warning: There were undefined citations.
 
-[4] (./proposal.aux) ) 
+[5] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1068 strings out of 492909
- 13581 string characters out of 6136300
+ 1083 strings out of 492909
+ 13931 string characters out of 6136300
  83415 words of memory out of 5000000
- 5142 multiletter control sequences out of 15000+600000
- 6456 words of font info for 33 fonts, out of 8000000 for 9000
+ 5155 multiletter control sequences out of 15000+600000
+ 6464 words of font info for 34 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 25i,6n,26p,791b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,27p,791b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on proposal.pdf (4 pages).
+Output written on proposal.pdf (5 pages).

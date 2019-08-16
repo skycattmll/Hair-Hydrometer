@@ -47,7 +47,7 @@ Human Hair is mainly consisted by curtail, cortex, and medulla from outside to t
     \caption{protein structure\citep{yu2017structure}}
     \label{protein structure}
 \end{figure}
-but they didn't consider the humidity acting on the hydrogen bonds.
+but they didn't consider the humidity acting on the chemical bond inside keratin.
 
 Many AFM studies on nanomechanical properties of human hair(mainly on cellular structure) was done by Bhushan in Ohio State University\citep{bhushan2006afm}. But this work is not about the keratin and they mapped only lateral not longitudinal. 
 \begin{figure}[H]
@@ -56,7 +56,7 @@ Many AFM studies on nanomechanical properties of human hair(mainly on cellular s
     \caption{Bhushan's method}
 \end{figure}
 
-
+Simulation and mesoscopic experiments are done in \citep{}
 
 Since there are numerous physical models and explanations, the first thing to do is focusing on the second problem. Then we can develop the solution to the third and the first, which is the core.
 
@@ -68,11 +68,13 @@ Since there are numerous physical models and explanations, the first thing to do
 \end{itemize}
 
 \subsection{Instrumentation}
-Specimen: different kerotin fibrils\\
-AFM: AFM, T-shaped cantilever with normal tip, oblong cantilever\\
+\textbf{Specimen}: different kerotin fibrils, hairs\\ 
+\textbf{AFM}: AFM, T-shaped cantilever with normal tip, oblong cantilever\\
 Environment control: Humidity\&Temperature control box (using raspberry and electronic hydrometer\&thermometer to feedback), covering the whole AFM head.
 
 \subsection{Method}
+First, we measure the keratin protein's YM under different humidity and temperature. Second, measure how keratin effect hair's YM (i.e. by control variables only related to keratin inside hair, like using special enzyme(keratinase\citep{lin1992purification}) solution which can influent keratin to process the hair).  Third, set up the keratin-hair mechanical model, comparing to known model and do the simulation.
+
 
 \textbf{Notice}: we need to bias the humidity influence on adhesion between tip and specimen.
 
@@ -81,14 +83,23 @@ Environment control: Humidity\&Temperature control box (using raspberry and elec
     \item How to measure the axial Young's modulus of a nano fiber? and How to fix an end of kerotin fibrils?
     
     \item How to develop a better hair mechanical model? There must be other relevant factors.
+
+	\item How to control variates? like How to only destroying the protein fibrils inside the hair?
 \end{itemize}
 
 
-
-
 \section{Expected Result}
+Expected to have 
+\begin{itemize}
+	
+	\item a decreased keroin YM with increasing humidity and temparature.
+	 \item a proportional relationship between kerotin fibrils YM and hair YM (longitudinal). 
+\end{itemize}
 \subsection{Expected Finishing Time}
 
 \bibliographystyle{plain}
 \bibliography{references}
 \end{document}
+
+
+
