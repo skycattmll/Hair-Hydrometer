@@ -1,5 +1,6 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage{float}
 
 \title{\textbf{Preliminary Research Proposal}\\Investigating the Microscopic Mechanics of Hair-Hydrometer via Atomic Force Microscopy }
 \author{Jun-Yan Zhang, Yue-Jian Mo}
@@ -33,14 +34,14 @@ We can control the environment easily by setting up the whole instrument in a ar
 
 \subsection{Literature review}
 At beginning (1921), people thought it was humidity that changes the curvature of water menisci in the hair cell pores and then strain or loosen the cell walls. The mechanical properties of hair follows Hooke's law\citep{Whipple_1921}.
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
 \includegraphics[width=0.8\textwidth]{hair structure.jpg}
     \caption{hair structure\citep{yu2017structure}}
     \label{hair structure}
 \end{figure}
 Human Hair is mainly consisted by curtail, cortex, and medulla from outside to the center. In one paper, they used $\alpha$ and $\beta$ kerotin model (examined by X-ray scattering) to explain the elasticity of human hair:
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
 \includegraphics[width=0.6\textwidth]{protein structure.png}
     \caption{protein structure\citep{yu2017structure}}
@@ -48,7 +49,14 @@ Human Hair is mainly consisted by curtail, cortex, and medulla from outside to t
 \end{figure}
 but they didn't consider the humidity acting on the hydrogen bonds.
 
-Many AFM studies on nanomechanical properties of human hair(mainly on cellular structure) was done by Bhushan in Ohio State University\citep{bhushan2006afm}.
+Many AFM studies on nanomechanical properties of human hair(mainly on cellular structure) was done by Bhushan in Ohio State University\citep{bhushan2006afm}. But this work is not about the keratin and they mapped only lateral not longitudinal. 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{bhushan.png}
+    \caption{Bhushan's method}
+\end{figure}
+
+
 
 Since there are numerous physical models and explanations, the first thing to do is focusing on the second problem. Then we can develop the solution to the third and the first, which is the core.
 
@@ -66,7 +74,7 @@ Environment control: Humidity\&Temperature control box (using raspberry and elec
 
 \subsection{Method}
 
-Notice: we need to bias the humidity influence on adhesion between tip and specimen.
+\textbf{Notice}: we need to bias the humidity influence on adhesion between tip and specimen.
 
 \subsection{Difficulties}
 \begin{itemize}
