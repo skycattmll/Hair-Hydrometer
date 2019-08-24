@@ -1,4 +1,9 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{bhushan2008nanoscale}
+Bharat Bhushan.
+\newblock Nanoscale characterization of human hair and hair conditioners.
+\newblock {\em Progress in Materials Science}, 53(4):585--710, 2008.
 
 \bibitem{bhushan2006afm}
 Bharat Bhushan and Nianhuan Chen.
@@ -6,11 +11,57 @@ Bharat Bhushan and Nianhuan Chen.
   cellular structure of human hair.
 \newblock {\em Ultramicroscopy}, 106(8-9):755--764, 2006.
 
+\bibitem{chou2015mechanics}
+Chia-Ching Chou, Emiliano Lepore, Paola Antonaci, Nicola Pugno, and Markus~J
+  Buehler.
+\newblock Mechanics of trichocyte alpha-keratin fibers: Experiment, theory, and
+  simulation.
+\newblock {\em Journal of Materials Research}, 30(1):26--35, 2015.
+
+\bibitem{kreplak2002new}
+L~Kreplak, A~Franbourg, F~Briki, F~Leroy, D~Dalle, and J~Doucet.
+\newblock A new deformation model of hard $\alpha$-keratin fibers at the
+  nanometer scale: implications for hard $\alpha$-keratin intermediate filament
+  mechanical properties.
+\newblock {\em Biophysical journal}, 82(4):2265--2274, 2002.
+
 \bibitem{lee2016advances}
 Wonseok Lee, Hyungbeen Lee, Gyudo Lee, and Dae~Sung Yoon.
 \newblock Advances in afm imaging applications for characterizing the
   biophysical properties of amyloid fibrils.
 \newblock {\em Exploring new findings on amyloidosis}, 2016.
+
+\bibitem{lin1992purification}
+Xiang Lin, Chung-Ginn Lee, Ellen~S Casale, and Jason~CH Shih.
+\newblock Purification and characterization of a keratinase from a
+  feather-degrading bacillus licheniformis strain.
+\newblock {\em Appl. Environ. Microbiol.}, 58(10):3271--3275, 1992.
+
+\bibitem{lodge2007surface}
+Richard~A Lodge and Bharat Bhushan.
+\newblock Surface potential measurement of human hair using kelvin probe
+  microscopy.
+\newblock {\em Journal of Vacuum Science \& Technology A: Vacuum, Surfaces, and
+  Films}, 25(4):893--902, 2007.
+
+\bibitem{seshadri2008effect}
+Indira~P Seshadri and Bharat Bhushan.
+\newblock Effect of rubbing load on nanoscale charging characteristics of human
+  hair characterized by afm based kelvin probe.
+\newblock {\em Journal of colloid and interface science}, 325(2):580--587,
+  2008.
+
+\bibitem{seshadri2008situ}
+Indira~P Seshadri and Bharat Bhushan.
+\newblock In situ tensile deformation characterization of human hair with
+  atomic force microscopy.
+\newblock {\em Acta Materialia}, 56(4):774--781, 2008.
+
+\bibitem{wei2005nanomechanical}
+Guohua Wei, Bharat Bhushan, and Peter~M Torgerson.
+\newblock Nanomechanical characterization of human hair using nanoindentation
+  and sem.
+\newblock {\em Ultramicroscopy}, 105(1-4):248--266, 2005.
 
 \bibitem{Whipple_1921}
 F~J~W Whipple.
